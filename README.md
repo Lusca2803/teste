@@ -15,7 +15,7 @@
 *(vale 7,5% — Dimensão Conceitual)*
 
 - **Nome e natureza da organização:** *Waldesa Comércio*
-- **Contexto e porte:** *Com fins lucrativos, conta com cerca de 35 a 40 funcionários, 20 a 30 clientes por dia em loja, 20 a 30 pela internet*
+- **Contexto e porte:** *Com fins lucrativos, conta com cerca de 35 a 40 funcionários, 20 a 30 clientes por dia em loja fisica e 20 a 30 pela internet*
 - **Problemas e necessidades identificados:** *Controle de estoque*
 - **Justificativa da escolha:** *Porque é uma empresa acessível e que tem tudo registrado em sistema e planilhas *
 - **Evidências da organização:** *comprove que a organização existe e que o grupo teve acesso a ela — ex.: fotos do local/da visita, link da organização no Google (Google Maps/Google Meu Negócio, site, rede social), endereço completo e forma de contato (telefone, e-mail, responsável pela organização).*
